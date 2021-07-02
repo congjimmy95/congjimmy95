@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @congjimmy95
 - 👀 I’m interested in learn coding
 - 🌱 I’m currently learning swift, python
-- 💞️ I’m looking to collaborate on game buding
+- 💞️ I’m looking to collaborate on game bulding
 - 📫 How to reach me cong.jimmy@live.com
 
 <!---
